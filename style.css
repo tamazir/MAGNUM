@@ -1,0 +1,53 @@
+body{
+background-color:black ;
+color: white;
+
+}
+
+
+
+
+p {
+    color: black;
+}  
+
+h1, label {
+    color: white;
+}
+
+  
+/* h2 label { */
+    /* color: white; */
+/* } */
+
+
+h2 {
+    
+    background-color: black;
+    text-align: center;
+
+}
+
+   /* .grd { */
+    /* font-size: 25px; */
+    /* } */
+
+#contat {
+    color: black;
+    background-color: white;
+}
+form {
+    background: black;
+}
+
+.syno{
+color: white
+
+}
+
+
+.sais
+{
+color: white
+
+}
